@@ -1,0 +1,20 @@
+*{
+    padding: 0;
+    margin: 0;
+    color: rgba(228, 216, 216, 0.791);
+}
+id{
+  color: #f08804;  
+}
+#navbar{
+    height: 60px;
+    background-color: #0f1111;
+}
+button{
+    background-color: #f08804;
+}
+
+#logo{
+    color: #f08804;
+    font-size: 25px;
+}
